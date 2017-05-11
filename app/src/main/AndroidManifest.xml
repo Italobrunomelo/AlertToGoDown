@@ -24,7 +24,7 @@
             </intent-filter>
         </activity>
         <activity android:name=".MainActivityAlert" />
-        <activity android:name=".ActivityAddAlert">
+        <activity android:name=".ActivityCreateAlert">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
