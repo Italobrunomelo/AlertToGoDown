@@ -13,9 +13,15 @@
     <string name="permission_rationale">"As permissões de contatos são necessárias para fornecer e-mail completos."
     </string>
     <string name="textViewOnibus">Ônibus</string>
-    <string name="createAlert">Create Alert</string>
-    <string name="bus">Bus</string>
-    <string name="buttonSerachStop">Search Stop</string>
-    <string name="textViewPeriodAlert">Alert Period</string>
-    <string name="buttonCreateAlert">Create Alert</string>
+    <string name="activityCreateAlert">Criar Alerta</string>
+    <string name="bus">Ônibus</string>
+    <string name="buttonStop">Buscar Parada</string>
+    <string name="textViewPeriodAlert">Período do Alerta</string>
+    <string name="buttonCreateAlert">Criar Alerta</string>
+    <string name="editTextBus">Bus</string>
+    <string name="editTextStop">Bus Stop</string>
+    <string name="editTextAlertPeriod">Alert Period</string>
+    <string name="buttonSerachAlert">Search Alert</string>
+    <string name="buttonCreate">Create Alert</string>
+    <string name="buttonRun">Run</string>
 </resources>

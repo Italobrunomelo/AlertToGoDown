@@ -12,7 +12,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_gravity="center"
-        android:text="@string/createAlert" />
+        android:text="@string/activityCreateAlert" />
 
     <LinearLayout
         android:layout_width="match_parent"
@@ -40,11 +40,11 @@
         android:orientation="horizontal">
 
         <Button
-            android:id="@id/buttonSearchStop"
+            android:id="@id/buttonStop"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_weight="1"
-            android:text="@string/buttonSerachStop" />
+            android:text="@string/buttonStop" />
 
         <EditText
             android:layout_width="wrap_content"

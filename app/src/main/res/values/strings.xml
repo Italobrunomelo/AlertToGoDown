@@ -14,9 +14,15 @@
         completions."
     </string>
     <string name="textViewOnibus">Bus</string>
-    <string name="createAlert">Create Alert</string>
+    <string name="activityCreateAlert">Create Alert</string>
     <string name="bus">Bus</string>
-    <string name="buttonSerachStop">Search Stop</string>
+    <string name="buttonStop">Search Stop</string>
     <string name="textViewPeriodAlert">Alert Period</string>
     <string name="buttonCreateAlert">Create Alert</string>
+    <string name="editTextBus">Bus</string>
+    <string name="editTextStop">Bus Stop</string>
+    <string name="editTextAlertPeriod">Alert Period</string>
+    <string name="buttonSerachAlert">Search Alert</string>
+    <string name="buttonCreate">Create Alert</string>
+    <string name="buttonRun">Run</string>
 </resources>
