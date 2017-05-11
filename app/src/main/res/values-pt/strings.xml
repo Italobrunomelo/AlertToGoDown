@@ -18,10 +18,10 @@
     <string name="buttonStop">Buscar Parada</string>
     <string name="textViewPeriodAlert">Período do Alerta</string>
     <string name="buttonCreateAlert">Criar Alerta</string>
-    <string name="editTextBus">Bus</string>
-    <string name="editTextStop">Bus Stop</string>
-    <string name="editTextAlertPeriod">Alert Period</string>
-    <string name="buttonSerachAlert">Search Alert</string>
-    <string name="buttonCreate">Create Alert</string>
-    <string name="buttonRun">Run</string>
+    <string name="editTextBus">Ônibus</string>
+    <string name="editTextStop">Parada</string>
+    <string name="editTextAlertPeriod">Período do Alerta</string>
+    <string name="buttonSerachAlert">Buscar Alerta</string>
+    <string name="buttonCreate">Criar Alerta</string>
+    <string name="buttonRun">Começar</string>
 </resources>
