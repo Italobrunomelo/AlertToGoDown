@@ -7,10 +7,15 @@
     <string name="action_sign_in">Entrar ou Registrar</string>
     <string name="action_sign_in_short">Entrar</string>
     <string name="error_invalid_email">Endereço de email é inválido</string>
-    <string name="error_invalid_password">This password is too short</string>
-    <string name="error_incorrect_password">A senha está incorretaThis password is incorrect</string>
-    <string name="error_field_required">This field is required</string>
-    <string name="permission_rationale">"Contacts permissions are needed for providing email
-        completions."
+    <string name="error_invalid_password">A senha é muito pequena</string>
+    <string name="error_incorrect_password">A senha está incorreta</string>
+    <string name="error_field_required">Este campo é obrigatório</string>
+    <string name="permission_rationale">"As permissões de contatos são necessárias para fornecer e-mail completos."
     </string>
+    <string name="textViewOnibus">Ônibus</string>
+    <string name="createAlert">Create Alert</string>
+    <string name="bus">Bus</string>
+    <string name="buttonSerachStop">Search Stop</string>
+    <string name="textViewPeriodAlert">Alert Period</string>
+    <string name="buttonCreateAlert">Create Alert</string>
 </resources>

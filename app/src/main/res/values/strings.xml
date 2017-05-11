@@ -13,4 +13,10 @@
     <string name="permission_rationale">"Contacts permissions are needed for providing email
         completions."
     </string>
+    <string name="textViewOnibus">Bus</string>
+    <string name="createAlert">Create Alert</string>
+    <string name="bus">Bus</string>
+    <string name="buttonSerachStop">Search Stop</string>
+    <string name="textViewPeriodAlert">Alert Period</string>
+    <string name="buttonCreateAlert">Create Alert</string>
 </resources>
